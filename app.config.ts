@@ -1,6 +1,6 @@
 export default defineAppConfig({
   socials: {
-    twitter: 'Atinux',
-    github: 'Atinux/content-wind'
+    twitter: 'mfazail_alam',
+    github: 'mfazail/college-prep'
   }
 })
