@@ -8,6 +8,7 @@
     "postinstall": "nuxi prepare"
   },
   "devDependencies": {
+    "@kevinmarrec/nuxt-pwa": "^0.13.0",
     "content-wind": "^0.3.2",
     "nuxt": "^3.0.0",
     "typescript": "^4.9.3"
