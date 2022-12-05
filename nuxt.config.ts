@@ -3,7 +3,7 @@ export default defineNuxtConfig({
 	extends: 'content-wind',
 	content: {
 		highlight: {
-			preload: ['java']
+			preload: ['java','c']
 		}
 	}
 })
