@@ -10,10 +10,14 @@ export default defineNuxtConfig({
 		}
 	},
 	pwa: {
+		workbox: {
+			enabled:true
+		},
 		manifest: {
 			name: "College Prep",
 			description: "Semester Exam Preparation notes",
-			short_name:"College Prep"
+			short_name: "College Prep",
+			display: "standalone",
 		},
 		meta: {
 			author: "Fazail Alam",
