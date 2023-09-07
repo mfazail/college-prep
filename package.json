@@ -9,8 +9,10 @@
   },
   "devDependencies": {
     "@kevinmarrec/nuxt-pwa": "^0.13.0",
+    "@nuxt/content": "^2.8.2",
+    "@nuxthq/studio": "^0.14.0",
     "content-wind": "^0.3.2",
-    "nuxt": "^3.0.0",
+    "nuxt": "^3.7.1",
     "typescript": "^4.9.3"
   }
 }
